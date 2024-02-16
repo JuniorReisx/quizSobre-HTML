@@ -2,7 +2,7 @@
 
 #
 
-O projeto consiste em um jogo quiz sobre HTML com perguntas e respostas. O quiz possui 7 fases, sendo as fases compostas por 1(uma) pergunta e 4(quatro) alternativas de resposta, a cada pergunta correta o usuário avança para a próxima pergunta, se o usuário errar aparece uma nova página com um botão de reiniciar.
+O projeto consiste em um jogo quiz sobre HTML com perguntas e respostas. O quiz possui 7(sete) fases, sendo as fases compostas por 1(uma) pergunta e 4(quatro) alternativas de resposta, a cada pergunta correta o usuário avança para a próxima pergunta, se o usuário errar aparece uma nova página com um botão de reiniciar.
 #
 
 ### 🛠️ Tecnologias usadas
